@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @IliaKhuzhakhmetov
+- 👀 I’m interested in Android (Kotlin, JAVA) and in Flutter (Dart)
+- 🌱 I’m currently learning Flutter SDK
+- 📫 How to reach me - huzhah@gmail.com
