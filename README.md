@@ -15,14 +15,14 @@ I've worked on several projects, including:
 ### AlgoNYC
 AlgoNYC is the perfect cross-platform app for anyone looking to buy, sell, or rent real estate in New York City. With just a few taps, you can access comprehensive data on the city's real estate market, including property values, rental prices, and more. The app is designed to be easy to use, with a simple and intuitive interface that makes it easy to find the information you need.
 
-Platform: IOS
-Status: Released 
+- Platform: IOS
+- Status: Released 
 
 ### GoDoggo (Only for Canada)
 With the GoDoggo app, you can find the best dog parks, pet-friendly cafes, and other dog-friendly locations near you. The app is designed to be easy to use, with a simple and intuitive interface that makes it easy to discover new places to explore with your furry friend.
 
-Platfrom: IOS, Android
-Status: Released
+- Platfrom: IOS, Android
+- Status: Released
 
 ### Koko Face Yoga app
 
@@ -30,22 +30,22 @@ The Koko Hayashi Face Yoga app uses the latest technologies to provide you with 
 
 The app also utilizes your phone's camera to provide you with real-time feedback as you perform the Face Yoga exercises. This makes it easy to ensure that you're performing the exercises correctly and getting the most out of your Face Yoga practice.
 
-Platfrom: IOS, Android
-Status: Released
+- Platfrom: IOS, Android
+- Status: Released
 
 ### Wakefully
 This app is designed to help you gain daily insights and achieve personal growth through the power of AI-guided dream analysis and coaching.
 
-Platfrom: IOS
-Status: Released
+- Platfrom: IOS
+- Status: Released
 
 ### Time Tracker 
 This app is a powerful multi-platform solution designed to help employers track their employees' time, monitor their keyboard and mouse usage, and take screenshots to ensure that everyone is working efficiently and effectively.
 
 TimeTracker is a desktop app that works seamlessly on Windows, Linux, and MacOS, providing a versatile solution that can be used across different platforms. 
 
-Platfrom: Windows, Linux, and MacOS
-Status: Unreleased
+- Platfrom: Windows, Linux, and MacOS
+- Status: Unreleased
 
 ## Let's Work Together!
 If you're looking for a Flutter developer to help you build your next project, I'm here to help! I'm always open to new opportunities and challenges. You can contact me via email or LinkedIn, and I'll get back to you as soon as possible.
