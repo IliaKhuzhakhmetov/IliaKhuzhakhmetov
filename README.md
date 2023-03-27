@@ -1,5 +1,6 @@
 # Hello there, I'm a Flutter Developer 👋
 I'm a passionate Flutter developer who loves creating beautiful and functional apps using Flutter. With several years of experience in developing mobile apps, I'm proficient in creating apps that run on both iOS and Android devices. I'm excited to share my knowledge and skills with the Flutter community!
+
 ## My Skills and Expertise
 I have extensive experience with:
 - Flutter framework, Dart programming language, and related tools
@@ -51,10 +52,14 @@ TimeTracker is a desktop app that works seamlessly on Windows, Linux, and MacOS,
 If you're looking for a Flutter developer to help you build your next project, I'm here to help! I'm always open to new opportunities and challenges. You can contact me via email or LinkedIn, and I'll get back to you as soon as possible.
 
 ## My knowledge base 
+
 ### Architecture
 - [Flutter Architecture Samples](https://github.com/brianegan/flutter_architecture_samples)
 - [Flutter Clean Architecture](https://resocoder.com/category/tutorials/flutter/tdd-clean-architecture/)
 - [Flutter BloC pattern](https://bloclibrary.dev/#/gettingstarted)
+
+### Widgets
+- [Widgets lifecycle](https://abhishekdoshi26.medium.com/widget-lifecycle-flutter-3db5d824d033)
 
 ## Let's Connect!
 If you're interested in working with me or just want to say hello, feel free to reach out. You can find me on LinkedIn, Twitter, and GitHub. I'm always happy to chat with fellow developers and learn new things!
