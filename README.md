@@ -60,6 +60,7 @@ If you're looking for a Flutter developer to help you build your next project, I
 
 ### Widgets
 - [Widgets lifecycle](https://abhishekdoshi26.medium.com/widget-lifecycle-flutter-3db5d824d033)
+- [Widgets Lifecycle 2](https://medium.flutterdevs.com/explore-widget-lifecycle-in-flutter-e36031c697d0)
 
 ## Let's Connect!
 If you're interested in working with me or just want to say hello, feel free to reach out. You can find me on LinkedIn, Twitter, and GitHub. I'm always happy to chat with fellow developers and learn new things!
