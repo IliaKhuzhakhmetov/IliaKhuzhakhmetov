@@ -5,10 +5,11 @@ I'm a passionate Flutter developer who loves creating beautiful and functional a
 I have extensive experience with:
 - Flutter framework, Dart programming language, and related tools
 - Developing mobile applications for both Android and iOS platforms
-- Using state management libraries like BLoC, Provider
-- Using APIs and integrating third-party libraries
+- Using state management libraries like BLoC, Provider.
 - Writing clean and maintainable code
 - Building user interfaces that are both aesthetically pleasing and intuitive to use
+
+[![Huzhahmetov's GitHub stats](https://github-readme-stats.vercel.app/api?username=IliaKhuzhakhmetov)](https://github.com/IliaKhuzhakhmetov/github-readme-stats)
 
 ## My Portfolio
 I've worked on several projects, including:
