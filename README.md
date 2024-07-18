@@ -1,71 +1,27 @@
-# Hello there, I'm a Flutter Developer 👋
+# 💫 About Me:
 I'm a passionate Flutter developer who loves creating beautiful and functional apps using Flutter. With several years of experience in developing mobile apps, I'm proficient in creating apps that run on both iOS and Android devices. I'm excited to share my knowledge and skills with the Flutter community!
 
-## My Skills and Expertise
-I have extensive experience with:
-- Flutter framework, Dart programming language, and related tools
-- Developing mobile applications for both Android and iOS platforms
-- Using state management libraries like BLoC, Provider.
-- Writing clean and maintainable code
-- Building user interfaces that are both aesthetically pleasing and intuitive to use
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=IliaKhuzhakhmetov)](https://github.com/anuraghazra/github-readme-stats)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/huzhahmetov) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huzhahmetov) 
 
-## My Portfolio
-I've worked on several projects, including:
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=IliaKhuzhakhmetov&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=IliaKhuzhakhmetov&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IliaKhuzhakhmetov&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### AlgoNYC
-AlgoNYC is the perfect cross-platform app for anyone looking to buy, sell, or rent real estate in New York City. With just a few taps, you can access comprehensive data on the city's real estate market, including property values, rental prices, and more. The app is designed to be easy to use, with a simple and intuitive interface that makes it easy to find the information you need.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=IliaKhuzhakhmetov&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-- Platform: IOS
-- Status: Released 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### GoDoggo (Only for Canada)
-With the GoDoggo app, you can find the best dog parks, pet-friendly cafes, and other dog-friendly locations near you. The app is designed to be easy to use, with a simple and intuitive interface that makes it easy to discover new places to explore with your furry friend.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=IliaKhuzhakhmetov&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- Platfrom: IOS, Android
-- Status: Released
+---
+[![](https://visitcount.itsvg.in/api?id=IliaKhuzhakhmetov&icon=1&color=0)](https://visitcount.itsvg.in)
 
-### Koko Face Yoga app
-
-The Koko Hayashi Face Yoga app uses the latest technologies to provide you with the best possible experience. It leverages the power of TFLite, an open-source deep learning framework, to help you track your progress and achieve your goals.
-
-The app also utilizes your phone's camera to provide you with real-time feedback as you perform the Face Yoga exercises. This makes it easy to ensure that you're performing the exercises correctly and getting the most out of your Face Yoga practice.
-
-- Platfrom: IOS, Android
-- Status: Released
-
-### Wakefully
-This app is designed to help you gain daily insights and achieve personal growth through the power of AI-guided dream analysis and coaching.
-
-- Platfrom: IOS
-- Status: Released
-
-### Time Tracker 
-This app is a powerful multi-platform solution designed to help employers track their employees' time, monitor their keyboard and mouse usage, and take screenshots to ensure that everyone is working efficiently and effectively.
-
-TimeTracker is a desktop app that works seamlessly on Windows, Linux, and MacOS, providing a versatile solution that can be used across different platforms. 
-
-- Platfrom: Windows, Linux, and MacOS
-- Status: Unreleased
-
-## Let's Work Together!
-If you're looking for a Flutter developer to help you build your next project, I'm here to help! I'm always open to new opportunities and challenges. You can contact me via email or LinkedIn, and I'll get back to you as soon as possible.
-
-## My knowledge base 
-
-### Architecture
-- [Clear Architecture by Uncle Bob](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
-- [Flutter Architecture Samples](https://github.com/brianegan/flutter_architecture_samples)
-- [Flutter Clean Architecture](https://resocoder.com/category/tutorials/flutter/tdd-clean-architecture/)
-- [Flutter BloC pattern](https://bloclibrary.dev/#/gettingstarted)
-
-### Widgets
-- [Widgets lifecycle](https://abhishekdoshi26.medium.com/widget-lifecycle-flutter-3db5d824d033)
-- [Widgets Lifecycle 2](https://medium.flutterdevs.com/explore-widget-lifecycle-in-flutter-e36031c697d0)
-
-## Let's Connect!
-If you're interested in working with me or just want to say hello, feel free to reach out. You can find me on LinkedIn, Twitter, and GitHub. I'm always happy to chat with fellow developers and learn new things!
-- [LinkedIn](https://www.linkedin.com/in/huzhahmetov/)
-- [Telegram](https://t.me/huzhah)
-- huzhah@gmail.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
