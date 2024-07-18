@@ -9,7 +9,7 @@ I have extensive experience with:
 - Writing clean and maintainable code
 - Building user interfaces that are both aesthetically pleasing and intuitive to use
 
-[![Huzhahmetov's GitHub stats](https://github-readme-stats.vercel.app/api?username=IliaKhuzhakhmetov)](https://github.com/IliaKhuzhakhmetov/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=IliaKhuzhakhmetov)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Portfolio
 I've worked on several projects, including:
