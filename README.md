@@ -54,6 +54,7 @@ If you're looking for a Flutter developer to help you build your next project, I
 ## My knowledge base 
 
 ### Architecture
+- [Clear Architecture by Uncle Bob](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [Flutter Architecture Samples](https://github.com/brianegan/flutter_architecture_samples)
 - [Flutter Clean Architecture](https://resocoder.com/category/tutorials/flutter/tdd-clean-architecture/)
 - [Flutter BloC pattern](https://bloclibrary.dev/#/gettingstarted)
@@ -65,5 +66,5 @@ If you're looking for a Flutter developer to help you build your next project, I
 ## Let's Connect!
 If you're interested in working with me or just want to say hello, feel free to reach out. You can find me on LinkedIn, Twitter, and GitHub. I'm always happy to chat with fellow developers and learn new things!
 - [LinkedIn](https://www.linkedin.com/in/huzhahmetov/)
-- [Telegram](https://t.me/flutter_app_creator)
+- [Telegram](https://t.me/huzhah)
 - huzhah@gmail.com
